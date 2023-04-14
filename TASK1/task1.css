@@ -1,0 +1,65 @@
+#title{
+  background-color:#ffff;
+}
+.img1{
+  height:500px;
+  width:1000px;
+}
+
+#title1{
+  background-color:#19A7CE;
+  border-style:dotted;
+}
+
+.bir{
+  text-align:center;
+  font-size:50px;
+  color:red;
+
+}
+
+.grid1{
+  padding:5% 5% 5% 5%;
+}
+.grid2{
+  padding:5% 5% 5% 5%;
+}
+.img2{
+  height:200px;
+  width:500px;
+  border-radius:20px;
+
+}
+.img3{
+  height:300px;
+  width:300px;
+  border-radius:200px;
+
+}
+.para{
+  font-size:20px;
+  color:black;
+
+}
+.but{
+  text-decoration:none;
+  margin:30px 30px;
+
+}
+.but:hover{
+  background-color:black;
+  color:blue;
+  font-family:"Montserrat";
+}
+.h{
+  border-color:red;
+  width:15%;
+}
+#title2{
+  border-style:dotted;
+  color:red;
+}
+#title3{
+  border-style:dotted;
+  background-color:#19A7CE;
+}
